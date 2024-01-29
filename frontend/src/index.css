@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --midnight-blue: #2D3250;
+    --gunmetal: #424769;
+    --slate-gray: #7077A1;
+    --apricot: #F6B17A;
+    --error: #f85454;
+}
+
+body {
+    background-color: #2D3250
+}
